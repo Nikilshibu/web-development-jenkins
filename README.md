@@ -68,5 +68,6 @@ pipeline {
 ![image](https://github.com/user-attachments/assets/0dbdcc22-d166-42ae-96fb-593adfc18350)
 
 ### OUTPUT
-![image](https://github.com/user-attachments/assets/679e5acb-f95c-4476-af32-de13edd7cdbe)
+![image](https://github.com/user-attachments/assets/a88ab145-ab94-4a24-b5db-7c9e8dcdb824)
+
 
